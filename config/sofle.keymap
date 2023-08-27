@@ -16,7 +16,7 @@
     macros {
 // System and Power
         tm: tm {
-            label = "TASK_MANAGER";
+            label = "TASK_MANAGER_1";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
